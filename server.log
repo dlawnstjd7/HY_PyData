@@ -1,0 +1,19 @@
+[I 03:51:14.975 NotebookApp] Serving notebooks from local directory: /workspace/DreamUnivproject
+[I 03:51:14.976 NotebookApp] 0 active kernels 
+[I 03:51:14.976 NotebookApp] The Jupyter Notebook is running at: http://0.0.0.0:80/?token=59058d5bdc839caa8c25fd1eb412f21c87ea4194bf7aca40
+[I 03:51:14.976 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 03:51:14.976 NotebookApp] No web browser found: could not locate runnable browser.
+[C 03:51:14.977 NotebookApp] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://0.0.0.0:80/?token=59058d5bdc839caa8c25fd1eb412f21c87ea4194bf7aca40
+[I 03:51:33.795 NotebookApp] 302 GET /?token=59058d5bdc839caa8c25fd1eb412f21c87ea4194bf7aca40 (172.17.0.1) 0.48ms
+[W 03:52:01.619 NotebookApp] 404 GET /undefined (172.17.0.1) 5.73ms referer=None
+[I 03:52:01.671 NotebookApp] Creating new notebook in 
+[I 03:52:01.766 NotebookApp] Writing notebook-signing key to /root/.local/share/jupyter/notebook_secret
+[W 03:52:05.382 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20170920035114 (172.17.0.1) 2.31ms referer=http://dlawnstjd7.run.goorm.io/notebooks/Untitled.ipynb?kernel_name=python3
+[I 03:52:05.528 NotebookApp] Kernel started: 5d0f2a42-9f96-45cb-a56d-c5879e9ccec9
+[I 03:52:08.297 NotebookApp] Adapting to protocol v5.1 for kernel 5d0f2a42-9f96-45cb-a56d-c5879e9ccec9
+[I 03:54:05.783 NotebookApp] Saving file at /Untitled.ipynb
+[IPKernelApp] WARNING | Parent appears to have exited, shutting down.
